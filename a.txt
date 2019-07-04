@@ -1,3 +1,7 @@
 master
 feature
+<<<<<<< HEAD
 嘿嘿嘿4
+=======
+嘿嘿嘿3
+>>>>>>> 7fd348c4095f25fc93060d70be4afff8a87e3ced
